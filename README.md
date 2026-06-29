@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anjanaravindu0224@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href=" https://www.linkedin.com/in/ravindu-anjana-509758204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anjanaravindu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ravindu-anjana-509758204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ravinduanjana99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-Full-Stack AI Engineer with production experience building **React.js** and **React Native** frontends, **Python/FastAPI** backends, and integrated **AI/ML pipelines**. Interned at **Sri Lanka Telecom** delivering a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025** and a RAG-powered AI assistant with a responsive React UI. Comfortable designing pixel-perfect interfaces in Figma, architecting REST APIs in FastAPI, and integrating LLMs delivering complete, deployable AI-powered products end to end.
+Full-Stack AI Engineer with production experience building **React.js** and **React Native** frontends, **Python/FastAPI** backends, and integrated **AI/ML pipelines**. Interned at **Sri Lanka Telecom** delivering a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025** and a RAG-powered AI assistant with a responsive React UI. Comfortable designing pixel-perfect interfaces in Figma, architecting REST APIs in FastAPI, and integrating LLMs — delivering complete, deployable AI-powered products end to end.
 
 ---
 
@@ -116,12 +116,8 @@ Full-Stack AI Engineer with production experience building **React.js** and **Re
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduanjana99&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravinduanjana99&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravinduanjana99&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduanjana99&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -134,6 +130,6 @@ Full-Stack AI Engineer with production experience building **React.js** and **Re
 
 <p align="center">
   <i>Open to full-stack, AI/ML, and mobile engineering roles. Let's build something great.</i><br><br>
-  <a href="mailto:anjanaravindu0224@gmail.com">anjanaravindu0224@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/ravindu-anjana">LinkedIn</a>
+  <a href="mailto:anjanaravindu@gmail.com">anjanaravindu@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ravindu-anjana-509758204/">LinkedIn</a>
 </p>
