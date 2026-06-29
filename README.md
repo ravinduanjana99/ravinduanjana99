@@ -36,12 +36,6 @@
 
 ## ⚡ Tech Stack
 
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -56,8 +50,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+---
 
 ### 🔧 Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -71,8 +64,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+---
 
 ### 🤖 AI / ML
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -83,24 +75,19 @@
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-### 📊 Data & Design
+---
+
+### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 ## 💼 Professional Experience
 
 <br/>
@@ -108,7 +95,8 @@
 <table>
 <tr>
 <td>
-
+---
+  
 **🏢 Sri Lanka Telecom (SLT)** &nbsp;&nbsp; `Intern AI/ML Engineer` &nbsp;&nbsp; *Jan 2025 – Jun 2025*
 
 </td>
