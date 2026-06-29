@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:anjanaravindu0224@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ravindu-anjana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/ravindu-anjana](https://www.linkedin.com/in/ravindu-anjana-509758204/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ravinduanjana99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
