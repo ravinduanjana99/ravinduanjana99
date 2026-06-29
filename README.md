@@ -12,7 +12,7 @@
 
 ---
 
-Full-Stack AI Engineer with production experience building **React.js** and **React Native** frontends, **Python/FastAPI** backends, and integrated **AI/ML pipelines**. Interned at **Sri Lanka Telecom** delivering a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025** and a RAG-powered AI assistant with a responsive React UI. Comfortable designing pixel-perfect interfaces in Figma, architecting REST APIs in FastAPI, and integrating LLMs — delivering complete, deployable AI-powered products end to end.
+Full-Stack AI Engineer with production experience building **React.js** and **React Native** frontends, **Python/FastAPI** backends, and integrated **AI/ML pipelines**. Interned at **Sri Lanka Telecom** delivering a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025** and a RAG-powered AI assistant with a responsive React UI. Comfortable designing pixel-perfect interfaces in Figma, architecting REST APIs in FastAPI, and integrating LLMs delivering complete, deployable AI-powered products end to end.
 
 ---
 
