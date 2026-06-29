@@ -1,97 +1,44 @@
 <div align="center">
 
-<br/>
-
-```
-██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗██████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██║████╗  ██║██╔══██╗██║   ██║
-██████╔╝███████║██║   ██║██║██╔██╗ ██║██║  ██║██║   ██║
-██╔══██╗██╔══██║╚██╗ ██╔╝██║██║╚██╗██║██║  ██║██║   ██║
-██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║██████╔╝╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ 
-                                              A N J A N A
-```
-
-### Full-Stack AI Engineer &nbsp;·&nbsp; React & React Native &nbsp;·&nbsp; Python & FastAPI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=180&section=header&text=Ravindu%20Anjana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/anjanaravindu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanaravindu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-anjana-509758204/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravinduanjana99)
+<a href="https://github.com/ravinduanjana99">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React.js+%26+React+Native+Developer;Python+%2F+FastAPI+Backend+Engineer;Building+AI-Powered+Products+End-to-End;Computer+Vision+%7C+RAG+%7C+LLM+Integration&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
+</a>
 
-<br/>
+<br/><br/>
+
+<a href="mailto:anjanaravindu0224@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ravindu-anjana-509758204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ravinduanjana99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ravinduanjana99/Personal-Portfolio"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
----
-
 <br/>
 
-> Full-Stack AI Engineer with production experience building **React.js** and **React Native** frontends, **Python/FastAPI** backends, and integrated **AI/ML pipelines**. Interned at **Sri Lanka Telecom** delivering a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025** and a RAG-powered AI assistant with a responsive React UI. Comfortable designing pixel-perfect interfaces in Figma, architecting REST APIs in FastAPI, and integrating LLMs — delivering complete, deployable AI-powered products end to end.
-
-<br/>
-
----
-
-## ⚡ Tech Stack
-
-<br/>
+## 🧭 Professional Summary
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="68%" valign="top">
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Full-Stack AI Engineer** with production experience building **React.js / React Native** frontends, **Python / FastAPI** backends, and integrated **AI/ML pipelines**. Interned at **Sri Lanka Telecom**, delivering a full-stack iOS emotion-recognition app showcased at the **National AI Expo 2025**, and a RAG-powered AI assistant with a responsive React UI.
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+Equally comfortable designing pixel-perfect interfaces in **Figma**, architecting REST APIs in **FastAPI**, and integrating LLMs — shipping complete, deployable AI-powered web and mobile products end to end.
+
+**🔭 Currently exploring:** agentic AI workflows & multimodal LLM apps
+**🌱 Always learning:** advanced RAG architectures & on-device ML
+**💬 Ask me about:** React / React Native, FastAPI, computer vision, LLM integration
+**🎓 B.Sc. (Hons)** Electronics & Computer Science — University of Kelaniya
+**📍 Based in Sri Lanka** &nbsp;|&nbsp; 🟢 Open to full-stack, AI/ML & mobile roles
 
 </td>
-<td valign="top" width="33%">
+<td width="32%" align="center">
 
-### 🔧 Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 🤖 AI / ML
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat-square&logo=python&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white)
-![Groq LLAMA-4](https://img.shields.io/badge/Groq_LLAMA--4-F55036?style=flat-square&logo=groq&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-### 📊 Data & Design
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -99,120 +46,241 @@
 
 <br/>
 
----
-
-## 💼 Professional Experience
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-**🏢 Sri Lanka Telecom (SLT)** &nbsp;&nbsp; `Intern AI/ML Engineer` &nbsp;&nbsp; *Jan 2025 – Jun 2025*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-**📱 Full-Stack Emotion Recognition iOS App**
-> Built a React Native frontend + Python/FastAPI backend integrating OpenCV & DeepFace for real-time multi-face emotion classification. Showcased live at the **National AI Expo & Conference 2025**.
-
-**📡 FTTH Proactive Fault Prediction System**
-> Engineered ML features from historical network fault data, deployed a 7-day-ahead fault forecasting model, and built interactive Tableau dashboards used by the network operations team.
-
-**🎮 Gesture Drive (TECHNO 2025)**
-> Built a real-time gesture-controlled game using Flask, OpenCV, MediaPipe & PyAutoGUI — demonstrated at SLT's annual technology showcase.
-
-**🤖 Agentic AI Hackathon (IBM watsonx Orchestrate)**
-> Designed multi-agent AI workflows with tool orchestration in a global competition via lablab.ai.
-
-<br/>
-
----
-
-## 🚀 Projects
-
-<br/>
-
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">Description</th>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99"><b>AERIX</b> — RAG AI Assistant</a></td>
-<td><code>React</code> <code>FastAPI</code> <code>FAISS</code> <code>LLAMA-4</code> <code>MongoDB</code></td>
-<td>Full-stack AI assistant with PDF-grounded semantic search, multi-turn conversational memory & Figma-designed UI</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99"><b>LankaLens</b> — AI Landmark Explorer</a></td>
-<td><code>React Native</code> <code>FastAPI</code> <code>Gemini 2.5 Flash</code> <code>gTTS</code></td>
-<td>Cross-platform mobile app turning landmark photos into 45-second spatial audio documentaries with live text tracking</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99"><b>AI Job Tracker</b> — Resume Analyzer</a></td>
-<td><code>MERN</code> <code>JWT</code> <code>Groq API</code></td>
-<td>Full MERN app with JWT auth, AI-powered resume analysis via Groq, and MongoDB aggregation analytics</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99/Real-Time-Hand-Driven-Character-Animation"><b>Real-Time Hand Animation</b></a></td>
-<td><code>Python</code> <code>MediaPipe</code> <code>Blender API</code> <code>UDP</code></td>
-<td>Markerless motion capture streaming hand/arm gestures into Blender via low-latency UDP — no specialized hardware needed</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99/Minority-Report-Style-Virtual-Webcam"><b>Minority Report Board</b></a></td>
-<td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></td>
-<td>Gesture-controlled interactive canvas — move and scale images in real time with hand pinches</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99/AI-Shadow-Duel-Hand-Gesture-Spell-Casting"><b>AI Shadow Duel</b></a></td>
-<td><code>Python</code> <code>MediaPipe</code></td>
-<td>Spell-casting game driven entirely by hand gestures</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99/voice_controlled_slides"><b>Voice-Controlled Slides</b></a></td>
-<td><code>Python</code> <code>Vosk</code> <code>PyAutoGUI</code></td>
-<td>Offline, hands-free presentation control using real-time Vosk speech recognition</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ravinduanjana99/Personal-Portfolio"><b>Personal Portfolio</b></a></td>
-<td><code>React</code> <code>Node.js</code></td>
-<td>Portfolio site with React frontend and Node.js backend</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🔬 Research
-
-<br/>
-
-### Vocal Analysis & Pitch Detection System for Sinhala Music
-
-`Python` `Librosa` `CNN` `Dynamic Time Warping` `Signal Processing`
-
-- Built a real-time pitch detection and scoring system with a custom frequency-to-note mapping algorithm, eliminating subjective bias in Sinhala singing competitions
-- Engineered a CNN-based gender classification model for automated vocal normalization
-- Integrated Dynamic Time Warping (DTW) for tempo-invariant comparison between live and reference tracks
-- Built a comprehensive GUI with note-by-note comparison, real-time pitch deviation feedback, and frame-wise accuracy metrics
-
-<br/>
-
----
-
-## 🏆 Achievements
-
-<br/>
+## ⚡ Technical Skills
 
 <div align="center">
 
-|  | Achievement |
+<table width="100%">
+<tr>
+<td width="18%" valign="top"><b>Frontend</b></td>
+<td width="82%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,threejs,html,css&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Mobile</b></td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=react,typescript&theme=dark" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="48"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend & APIs</b></td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express&theme=dark" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>AI / ML Integration</b></td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/Groq_LLAMA--4-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/FAISS-412991?style=for-the-badge&logo=meta&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+<img src="https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logo=python&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Databases</b></td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/FAISS_Vector_Store-412991?style=for-the-badge&logo=meta&logoColor=white" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data & Analytics</b></td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Design & DevTools</b></td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=figma,blender,git,github,postman,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" height="48"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 💼 Professional Experience
+
+<table>
+<tr><td>
+
+### 🏢 Sri Lanka Telecom (SLT) &nbsp;·&nbsp; *Intern AI/ML Engineer*
+**Jan 2025 – Jun 2025**
+
+</td></tr>
+</table>
+
+<table>
+<tr>
+<td width="4%" align="center">📱</td>
+<td>
+
+**Full-Stack Emotion Recognition iOS App**
+Designed and built a complete React Native mobile frontend paired with a Python/FastAPI backend integrating OpenCV and DeepFace for real-time multi-face emotion classification. Showcased live at the **National AI Expo & Conference 2025**.
+
+</td>
+</tr>
+<tr>
+<td width="4%" align="center">📡</td>
+<td>
+
+**FTTH Proactive Fault Prediction System**
+Analyzed historical FTTH network fault data, engineered ML features, and deployed a predictive model enabling 7-day-ahead fault forecasting. Designed interactive Tableau dashboards for fault trend monitoring used by the network operations team.
+
+</td>
+</tr>
+<tr>
+<td width="4%" align="center">🎮</td>
+<td>
+
+**Gesture Drive — Computer Vision Game (TECHNO 2025)**
+Built a real-time gesture-controlled game using Flask, OpenCV, MediaPipe & PyAutoGUI, demonstrating full-stack computer vision integration at SLT's annual technology showcase.
+
+</td>
+</tr>
+<tr>
+<td width="4%" align="center">🤖</td>
+<td>
+
+**Agentic AI Hackathon — IBM watsonx Orchestrate**
+Designed multi-agent AI workflows with tool orchestration and collaborative agent problem-solving in a global competition via lablab.ai.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AERIX — Full-Stack RAG AI Assistant](https://github.com/ravinduanjana99)
+`React.js` `FastAPI` `FAISS` `Sentence Transformers` `Groq LLAMA-4` `MongoDB`
+
+Complete full-stack AI assistant delivering PDF-grounded semantic support with multi-turn conversational memory via MongoDB session persistence. UI/UX designed end-to-end in Figma.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [LankaLens — AI Landmark Explorer](https://github.com/ravinduanjana99)
+`React Native` `TypeScript` `FastAPI` `Gemini 2.5 Flash` `gTTS` `Pydantic`
+
+Cross-platform app (iOS/Android) turning landmark photos into 45-second spatial-audio documentaries, with progressive voice streaming and strict Pydantic schema enforcement for structured multimodal LLM output.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [AI Job Tracker — Resume Analyzer](https://github.com/ravinduanjana99)
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Groq API`
+
+Full MERN application with a JWT-secured dashboard, AI-powered resume analysis via Groq API, and MongoDB aggregation pipelines for real-time application analytics.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖐️ [Real-Time Hand-Driven Character Animation](https://github.com/ravinduanjana99/Real-Time-Hand-Driven-Character-Animation)
+`Python` `MediaPipe` `Blender API` `UDP Networking`
+
+Markerless real-time motion capture streaming hand/arm gesture coordinates into Blender via a low-latency UDP socket pipeline — 3D character animation without specialized hardware.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ [Minority Report Board](https://github.com/ravinduanjana99/Minority-Report-Style-Virtual-Webcam)
+`Python` `OpenCV` `MediaPipe`
+
+Gesture-controlled interactive canvas — move and scale images in real time with hand pinches.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ [AI Shadow Duel](https://github.com/ravinduanjana99/AI-Shadow-Duel-Hand-Gesture-Spell-Casting)
+`Python` `MediaPipe`
+
+Spell-casting game driven entirely by hand gestures.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [Voice-Controlled Slides](https://github.com/ravinduanjana99/voice_controlled_slides)
+`Python` `Vosk` `PyAutoGUI`
+
+Offline, hands-free presentation control using real-time Vosk speech recognition to parse voice commands and simulate keyboard events.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 [Personal Portfolio](https://github.com/ravinduanjana99/Personal-Portfolio)
+`React.js` `Node.js`
+
+Portfolio site with a React frontend and a Node.js backend.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🔬 Research Experience
+
+### Vocal Analysis & Pitch Detection System for Sinhala Music — *Developer*
+`Python` `Librosa` `CNN` `Dynamic Time Warping (DTW)` `Signal Processing` `GUI Development`
+
+- Developed a real-time pitch detection and scoring system using Python and Librosa with a custom frequency-to-note mapping algorithm, eliminating subjective bias in Sinhala singing competitions
+- Engineered a CNN-based gender classification model for automated vocal normalization and integrated DTW for tempo-invariant comparison between live and reference tracks
+- Built a comprehensive GUI featuring note-by-note comparison, real-time pitch deviation feedback, and frame-wise accuracy metrics
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| | Achievement |
 |:---:|:---|
 | 🇱🇰 | **National AI Expo & Conference 2025** — Live product showcase, Sri Lanka Telecom |
 | 🤖 | **Agentic AI Hackathon** — IBM watsonx Orchestrate, global competition via lablab.ai |
@@ -222,13 +290,13 @@
 
 <br/>
 
----
-
 ## 📊 GitHub Activity
 
-<br/>
-
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduanjana99&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" width="100%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduanjana99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=22d3ee&point=f8fafc" width="100%"/>
 
@@ -242,36 +310,40 @@
 
 <br/>
 
----
-
 ## 🎓 Education
-
-<br/>
 
 <div align="center">
 
-🎓 &nbsp; **B.Sc. (Hons) Electronics and Computer Science**
-<br/>
-University of Kelaniya &nbsp;·&nbsp; *2021 – 2025*
+<table>
+<tr>
+<td align="center" width="50%">
+
+**B.Sc. (Hons) Electronics and Computer Science**
+University of Kelaniya, Faculty of Science
+*2021 – 2025*
+
+</td>
+<td align="center" width="50%">
+
+**G.C.E. Advanced Level**
+Science College, Mount Lavinia
+Combined Mathematics · Physics · Chemistry &nbsp;|&nbsp; *2020*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C3AED&height=120&section=footer"/>
 
-*Open to full-stack, AI/ML, and mobile engineering roles. Let's build something great.*
+*Open to full-stack, AI/ML, and mobile engineering roles — let's build something great.*
 
-<br/>
-
-[![Email](https://img.shields.io/badge/anjanaravindu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanaravindu@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-anjana-509758204/)
-
-<br/>
+<a href="mailto:anjanaravindu0224@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ravindu-anjana-509758204/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
