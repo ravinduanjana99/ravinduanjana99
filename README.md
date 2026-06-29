@@ -85,15 +85,6 @@ Full-Stack AI Engineer with end-to-end production experience — from pixel-perf
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduanjana99&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ## 🎓 Education
 
 **B.Sc. (Hons) Electronics and Computer Science** — University of Kelaniya *(2021 – 2025)*
