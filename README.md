@@ -38,8 +38,6 @@ Equally comfortable designing pixel-perfect interfaces in **Figma**, architectin
 </td>
 <td width="32%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
-
 </td>
 </tr>
 </table>
