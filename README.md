@@ -1,46 +1,107 @@
-<h1 align="center">Hi, I'm Ravindu Anjana 👋</h1>
+<div align="center">
 
-<p align="center">
-  🧠 Computer Vision & AI enthusiast &nbsp;|&nbsp; 🐍 Python developer &nbsp;|&nbsp; 🎮 Building human-computer interaction projects
-</p>
+# Ravindu Anjana
 
----
+**Full-Stack AI Engineer · React & React Native · Python & FastAPI**
 
-### 🔭 What I build
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-anjana)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ravinduanjana99)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anjanaravindu0224@gmail.com)
 
-I'm passionate about **gesture-driven interfaces** and **real-time AI applications** — things that make computers feel magical to use.
-
-- 🖐️ Hand-tracking & gesture control systems (MediaPipe, OpenCV)
-- 🎤 Voice-controlled tools
-- 🌐 Full-stack web apps (React + Node.js)
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+Full-Stack AI Engineer with end-to-end production experience — from pixel-perfect React/React Native interfaces to Python/FastAPI backends to integrated AI/ML pipelines. I build things that actually ship: an emotion recognition iOS app showcased at the **National AI Expo 2025**, a RAG-powered AI assistant, gesture-controlled games, and cross-platform mobile apps. I'm equally comfortable in Figma, a terminal, or a Jupyter notebook.
 
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white)
+
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+**Backend & APIs**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+
+**AI / ML**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_APIs-FF6F00?style=flat&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat&logo=meta&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| [🤚 Real-Time Hand Animation](https://github.com/ravinduanjana99/Real-Time-Hand-Driven-Character-Animation) | Drive 3D characters with your hands in real time |
-| [🎮 Minority Report Board](https://github.com/ravinduanjana99/Minority-Report-Style-Virtual-Webcam) | Gesture-controlled interactive canvas using pinches |
-| [🧙 AI Shadow Duel](https://github.com/ravinduanjana99/AI-Shadow-Duel-Hand-Gesture-Spell-Casting) | Cast spells with hand gestures |
-| [🎤 Voice Slides](https://github.com/ravinduanjana99/voice_controlled_slides) | Control presentations with your voice |
+| Project | Stack | What it does |
+|--------|-------|--------------|
+| [**AERIX** — RAG AI Assistant](https://github.com/ravinduanjana99) | React · FastAPI · FAISS · LLAMA-4 | Full-stack AI assistant with PDF-grounded semantic search and multi-turn conversation memory |
+| [**LankaLens** — AI Landmark Explorer](https://github.com/ravinduanjana99) | React Native · FastAPI · Gemini 2.5 Flash | Cross-platform mobile app turning landmark photos into 45-second spatial audio documentaries |
+| [**AI Job Tracker** — Resume Analyzer](https://github.com/ravinduanjana99) | MERN · JWT · Groq API | Full MERN stack app with AI-powered resume analysis and real-time application analytics |
+| [**Real-Time Hand Animation**](https://github.com/ravinduanjana99/Real-Time-Hand-Driven-Character-Animation) | Python · MediaPipe · Blender · UDP | Markerless motion capture streaming hand gestures into Blender via low-latency UDP |
+| [**Minority Report Board**](https://github.com/ravinduanjana99/Minority-Report-Style-Virtual-Webcam) | Python · OpenCV · MediaPipe | Gesture-controlled interactive canvas — move and scale objects with hand pinches |
+| [**AI Shadow Duel**](https://github.com/ravinduanjana99/AI-Shadow-Duel-Hand-Gesture-Spell-Casting) | Python · MediaPipe | Spell-casting game driven entirely by hand gestures |
+| [**Voice-Controlled Slides**](https://github.com/ravinduanjana99/voice_controlled_slides) | Python · Vosk · PyAutoGUI | Offline, hands-free presentation control via real-time voice commands |
+| [**Personal Portfolio**](https://github.com/ravinduanjana99/Personal-Portfolio) | React · Node.js | Portfolio site with React frontend and Node.js backend |
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduanjana99&layout=compact&theme=tokyonight" height="150"/>
-</p>
+**Sri Lanka Telecom (SLT) — Intern AI/ML Engineer** *(Jan 2025 – Jun 2025)*
+
+- Built a **React Native + FastAPI emotion recognition iOS app** (OpenCV + DeepFace) showcased live at the **National AI Expo & Conference 2025**
+- Deployed an **FTTH fault prediction model** for 7-day-ahead network fault forecasting with Tableau dashboards used by network ops
+- Built **Gesture Drive** — a real-time gesture-controlled computer vision game demonstrated at TECHNO 2025
+- Competed in the **Agentic AI Hackathon** (IBM watsonx Orchestrate) designing multi-agent AI workflows on lablab.ai
+
+---
+
+## 🏆 Highlights
+
+- 🇱🇰 **National AI Expo & Conference 2025** — Live product showcase, Sri Lanka Telecom
+- 🤖 **Agentic AI Hackathon** — IBM watsonx Orchestrate, global competition via lablab.ai
+- ⚡ **TECHNO 2025** — Real-time computer vision demo at SLT's annual technology showcase
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduanjana99&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Sc. (Hons) Electronics and Computer Science** — University of Kelaniya *(2021 – 2025)*
+
+---
+
+<div align="center">
+  <i>Open to full-stack, AI/ML, and mobile engineering roles. Let's build something.</i>
+  <br><br>
+  <a href="mailto:anjanaravindu0224@gmail.com">anjanaravindu0224@gmail.com</a> · <a href="https://linkedin.com/in/ravindu-anjana">LinkedIn</a>
+</div>
