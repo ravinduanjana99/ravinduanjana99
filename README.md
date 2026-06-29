@@ -112,12 +112,15 @@ Full-Stack AI Engineer with production experience building **React.js** and **Re
 - ⚡ **TECHNO 2025** — Real-time computer vision demo at SLT's annual technology showcase
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinduanjana99&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduanjana99&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduanjana99&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravinduanjana99&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravinduanjana99&theme=tokyonight" height="150"/>
 </p>
 
 ---
