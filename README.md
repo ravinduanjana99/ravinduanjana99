@@ -292,11 +292,7 @@ Portfolio site with a React frontend and a Node.js backend.
 
 ## 📊 GitHub Activity
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduanjana99&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" width="100%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduanjana99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=22d3ee&point=f8fafc" width="100%"/>
 
