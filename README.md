@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="mailto:anjanaravindu@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-05060A?style=flat-square&logo=gmail&logoColor=A78BFA" /></a>
+<a href="mailto:anjanaravindu0224@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-05060A?style=flat-square&logo=gmail&logoColor=A78BFA" /></a>
 <a href="https://www.linkedin.com/in/ravindu-anjana-509758204/"><img src="https://img.shields.io/badge/-LINKEDIN-05060A?style=flat-square&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="https://github.com/ravinduanjana99"><img src="https://img.shields.io/badge/-GITHUB-05060A?style=flat-square&logo=github&logoColor=A78BFA" /></a>
 
