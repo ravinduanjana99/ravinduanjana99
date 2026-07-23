@@ -46,34 +46,25 @@
 
 <br/>
 
+<table align="center" cellpadding="10">
+<tr>
+<td align="right" width="180"><sub>FRONTEND<br/>&amp; MOBILE</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,html,css&theme=dark&perline=8" /></td>
+</tr>
+<tr>
+<td align="right" width="180"><sub>BACKEND<br/>&amp; DATABASES</sub></td>
+<td><img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,mongodb,postgres,mysql&theme=dark&perline=8" /></td>
+</tr>
+<tr>
+<td align="right" width="180"><sub>AI / ML<br/>&amp; TOOLING</sub></td>
+<td><img src="https://skillicons.dev/icons?i=opencv,tensorflow,figma,blender,git,postman&theme=dark&perline=8" /></td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,html,css&theme=dark" />
-
-<br/><br/>
-
-**MOBILE**
-
-<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
-
-<br/><br/>
-
-**BACKEND &amp; DATABASES**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,mongodb,postgres,mysql&theme=dark" />
-
-<br/><br/>
-
-**AI / ML &amp; TOOLING**
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,figma,blender,git,postman&theme=dark" />
-
-<br/><br/>
-
-<sub>Groq LLAMA-4 &nbsp;·&nbsp; Gemini 2.5 Flash &nbsp;·&nbsp; IBM watsonx &nbsp;·&nbsp; FAISS &nbsp;·&nbsp; DeepFace &nbsp;·&nbsp; MediaPipe &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Illustrator</sub>
-
+<sub>Also: Expo &nbsp;·&nbsp; Groq LLAMA-4 &nbsp;·&nbsp; Gemini 2.5 Flash &nbsp;·&nbsp; IBM watsonx &nbsp;·&nbsp; FAISS &nbsp;·&nbsp; DeepFace &nbsp;·&nbsp; MediaPipe &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Illustrator</sub>
 </div>
 
 <br/>
