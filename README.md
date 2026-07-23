@@ -20,7 +20,7 @@
 $ whoami
 ```
 
-> Full-Stack AI Engineer building **React.js** / **React Native** frontends, **Python/FastAPI** backends, and end-to-end **AI/ML pipelines**. Interned at **Sri Lanka Telecom**, shipping a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025**, plus a RAG-powered AI assistant with a fully custom UI. Comfortable across the stack — from Figma wireframe to deployed FastAPI service to fine-tuned LLM integration.
+> Full-Stack AI Engineer building **React.js** / **React Native** frontends, **Python/FastAPI** backends, and end-to-end **AI/ML pipelines**. Interned at **Sri Lanka Telecom**, shipping a full-stack iOS emotion recognition app showcased at the **National AI Expo 2025**, plus a RAG-powered AI assistant with a fully custom UI. Comfortable across the stack from Figma wireframe to deployed FastAPI service to fine-tuned LLM integration.
 
 <br/>
 
