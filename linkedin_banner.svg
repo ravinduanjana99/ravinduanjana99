@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396">
+  <defs>
+    <!-- Dark & White Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060A"/>
+      <stop offset="50%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#111622"/>
+    </linearGradient>
+
+    <!-- Subtle Ambient Lighting -->
+    <radialGradient id="glow-light" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#21262D" stroke-width="0.7" stroke-opacity="0.35"/>
+      <circle cx="36" cy="36" r="0.9" fill="#FFFFFF" fill-opacity="0.25"/>
+    </pattern>
+
+    <!-- Code Card Border Gradient -->
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#30363D" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <linearGradient id="lineAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#30363D"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 44px; font-weight: 800; fill: #FFFFFF; letter-spacing: -0.5px; }
+    .font-mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, Monaco, monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+
+  <!-- 1. Background -->
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <rect width="1584" height="396" fill="url(#glow-light)"/>
+  <rect width="1584" height="396" fill="url(#grid)"/>
+
+  <!-- 2. Decorative Code Card on the Right (x=1150) -->
+  <g transform="translate(1150, 48)">
+    <rect width="380" height="212" rx="12" fill="#06090F" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    <!-- Window controls -->
+    <circle cx="22" cy="20" r="4" fill="#FFFFFF" opacity="0.3"/>
+    <circle cx="36" cy="20" r="4" fill="#FFFFFF" opacity="0.3"/>
+    <circle cx="50" cy="20" r="4" fill="#FFFFFF" opacity="0.3"/>
+    <text x="74" y="24" class="font-mono" font-size="11" fill="#8B949E">engineer.json</text>
+
+    <!-- JSON Specs -->
+    <text x="24" y="60" class="font-mono" font-size="11.5" fill="#8B949E">{</text>
+    <text x="40" y="84" class="font-mono" font-size="11.5" fill="#C9D1D9">
+      "name": <tspan fill="#FFFFFF">"Ravindu Anjana"</tspan>,
+    </text>
+    <text x="40" y="108" class="font-mono" font-size="11.5" fill="#C9D1D9">
+      "role": <tspan fill="#FFFFFF">"Full-Stack / AI Engineer"</tspan>,
+    </text>
+    <text x="40" y="132" class="font-mono" font-size="11.5" fill="#C9D1D9">
+      "stack": [<tspan fill="#FFFFFF">"React"</tspan>, <tspan fill="#FFFFFF">"FastAPI"</tspan>, <tspan fill="#FFFFFF">"ML/CV"</tspan>],
+    </text>
+    <text x="40" y="156" class="font-mono" font-size="11.5" fill="#C9D1D9">
+      "internship": <tspan fill="#FFFFFF">"Sri Lanka Telecom"</tspan>,
+    </text>
+    <text x="40" y="180" class="font-mono" font-size="11.5" fill="#C9D1D9">
+      "status": <tspan fill="#58A6FF">"Open to Work"</tspan>
+    </text>
+    <text x="24" y="202" class="font-mono" font-size="11.5" fill="#8B949E">}</text>
+  </g>
+
+  <!-- 3. Left / Center Content (Left margin safe zone x=440 for LinkedIn avatar) -->
+  
+  <!-- Role Pill -->
+  <g transform="translate(440, 46)">
+    <rect width="250" height="28" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="16" cy="14" r="4" fill="#FFFFFF"/>
+    <text x="30" y="19" class="font-mono" font-size="12" font-weight="600" fill="#E6EDF3" letter-spacing="1">FULL-STACK / AI ENGINEER</text>
+  </g>
+
+  <!-- Name -->
+  <text x="440" y="126" class="font-title">RAVINDU ANJANA</text>
+
+  <!-- Value Statement -->
+  <text x="440" y="166" class="font-sans" font-size="17" font-weight="500" fill="#8B949E">
+    React.js &amp; Mobile &nbsp;•&nbsp; Python &amp; FastAPI &nbsp;•&nbsp; End-to-End AI/ML Systems
+  </text>
+
+  <!-- Tech Arsenal Chips (Real Verified Stack) -->
+  <g transform="translate(440, 196)">
+    <!-- Chip 1: React / Native -->
+    <rect x="0" y="0" width="138" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="14" cy="14" r="3" fill="#FFFFFF"/>
+    <text x="26" y="19" class="font-mono" font-size="12" fill="#E6EDF3">React / Native</text>
+
+    <!-- Chip 2: Python / FastAPI -->
+    <rect x="148" y="0" width="150" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="162" cy="14" r="3" fill="#FFFFFF"/>
+    <text x="174" y="19" class="font-mono" font-size="12" fill="#E6EDF3">Python / FastAPI</text>
+
+    <!-- Chip 3: TypeScript -->
+    <rect x="308" y="0" width="112" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="322" cy="14" r="3" fill="#FFFFFF"/>
+    <text x="334" y="19" class="font-mono" font-size="12" fill="#E6EDF3">TypeScript</text>
+
+    <!-- Chip 4: Node / Express -->
+    <rect x="430" y="0" width="135" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="444" cy="14" r="3" fill="#FFFFFF"/>
+    <text x="456" y="19" class="font-mono" font-size="12" fill="#E6EDF3">Node / Express</text>
+
+    <!-- Chip 5: Computer Vision -->
+    <rect x="575" y="0" width="130" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="589" cy="14" r="3" fill="#FFFFFF"/>
+    <text x="601" y="19" class="font-mono" font-size="12" fill="#E6EDF3">OpenCV / ML</text>
+  </g>
+
+  <!-- Credentials Bar -->
+  <g transform="translate(440, 246)">
+    <!-- SLT Badge -->
+    <rect x="0" y="0" width="225" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="0.8"/>
+    <text x="12" y="18" class="font-sans" font-size="12" font-weight="600" fill="#E6EDF3">🏢 Ex-SLT AI/ML Intern</text>
+
+    <!-- Expo Badge -->
+    <rect x="235" y="0" width="265" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="0.8"/>
+    <text x="247" y="18" class="font-sans" font-size="12" font-weight="600" fill="#E6EDF3">🇱🇰 National AI Expo 2025</text>
+
+    <!-- Degree Badge -->
+    <rect x="510" y="0" width="230" height="26" rx="6" fill="#161B22" stroke="#30363D" stroke-width="0.8"/>
+    <text x="522" y="18" class="font-sans" font-size="12" font-weight="600" fill="#E6EDF3">🎓 B.Sc. Electronics &amp; CS</text>
+  </g>
+
+  <!-- Dividing Line -->
+  <line x1="440" y1="298" x2="1530" y2="298" stroke="#21262D" stroke-width="1"/>
+  <line x1="440" y1="298" x2="680" y2="298" stroke="url(#lineAccent)" stroke-width="2"/>
+
+  <!-- Contacts Row -->
+  <g transform="translate(440, 332)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="15" class="font-mono" font-size="12.5" fill="#C9D1D9">github.com/ravinduanjana99</text>
+    </g>
+    <g transform="translate(260, 0)">
+      <text x="0" y="15" class="font-mono" font-size="12.5" fill="#C9D1D9">anjanaravindu0224@gmail.com</text>
+    </g>
+    <g transform="translate(560, 0)">
+      <text x="0" y="15" class="font-sans" font-size="12.5" fill="#8B949E">Colombo, Sri Lanka</text>
+    </g>
+  </g>
+</svg>

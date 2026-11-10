@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Top Dark Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161B22,100:000000&height=200&section=header" width="100%"/>
+<!-- Hero Banner (linkedin_banner.svg) -->
+<img src="linkedin_banner.svg" width="100%" alt="Ravindu Anjana Banner" />
 
-<br/>
+<br/><br/>
 
-<!-- Pure White Typing Header -->
+<!-- Typing Headline -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=680&lines=RAVINDU+ANJANA;FULL-STACK+%2F+AI+ENGINEER;REACT+%E2%80%A2+REACT+NATIVE;PYTHON+%E2%80%A2+FASTAPI;SYSTEMS+THAT+THINK" alt="Typing SVG" />
 
 <br/><br/>
@@ -25,7 +25,7 @@
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -42,7 +42,7 @@
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -77,7 +77,7 @@
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -97,28 +97,21 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="4%" align="center">◆</td>
-<td><b>Full-Stack Emotion Recognition iOS App</b><br/><sub>React Native + FastAPI backend running OpenCV &amp; DeepFace for real-time multi-face emotion classification — live at the National AI Expo &amp; Conference 2025.</sub></td>
-</tr>
-<tr>
-<td align="center">◆</td>
-<td><b>FTTH Proactive Fault Prediction System</b><br/><sub>Engineered ML features from historical fault data, deployed a 7-day-ahead forecasting model, built Tableau dashboards for the network ops team.</sub></td>
-</tr>
-<tr>
-<td align="center">◆</td>
-<td><b>Gesture Drive</b> — TECHNO 2025<br/><sub>Real-time gesture-controlled game built with Flask, OpenCV, MediaPipe &amp; PyAutoGUI.</sub></td>
-</tr>
-<tr>
-<td align="center">◆</td>
-<td><b>Agentic AI Hackathon</b> — IBM watsonx Orchestrate<br/><sub>Designed multi-agent tool-orchestration workflows in a global competition via lablab.ai.</sub></td>
-</tr>
-</table>
+- ⚡ &nbsp; **Full-Stack Emotion Recognition iOS App** &nbsp;·&nbsp; *National AI Expo 2025*  
+  React Native + FastAPI backend running OpenCV &amp; DeepFace for real-time multi-face emotion classification — live showcase at the National AI Expo &amp; Conference 2025.
+
+- ⚡ &nbsp; **FTTH Proactive Fault Prediction System**  
+  Engineered ML features from historical fault data, deployed a 7-day-ahead forecasting model, and built Tableau dashboards for the network ops team.
+
+- ⚡ &nbsp; **Gesture Drive** &nbsp;·&nbsp; *TECHNO 2025*  
+  Real-time gesture-controlled game built with Flask, OpenCV, MediaPipe &amp; PyAutoGUI.
+
+- ⚡ &nbsp; **Agentic AI Hackathon** &nbsp;·&nbsp; *IBM watsonx Orchestrate*  
+  Designed multi-agent tool-orchestration workflows in a global competition via lablab.ai.
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -181,7 +174,7 @@
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -196,22 +189,20 @@
 <div align="center">
 
 **Vocal Analysis &amp; Pitch Detection System for Sinhala Music**  
-<sub><code>Python</code> <code>Librosa</code> <code>CNN</code> <code>Dynamic Time Warping</code> <code>Signal Processing</code></sub>
+<sub><code>Python</code> &nbsp;·&nbsp; <code>Librosa</code> &nbsp;·&nbsp; <code>CNN</code> &nbsp;·&nbsp; <code>Dynamic Time Warping</code> &nbsp;·&nbsp; <code>Signal Processing</code></sub>
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr><td width="4%" align="center">◆</td><td>Real-time pitch detection &amp; scoring with a custom frequency-to-note mapping algorithm</td></tr>
-<tr><td align="center">◆</td><td>CNN-based gender classification for automated vocal normalization</td></tr>
-<tr><td align="center">◆</td><td>Dynamic Time Warping integration for tempo-invariant live-vs-reference comparison</td></tr>
-<tr><td align="center">◆</td><td>GUI with note-by-note comparison &amp; real-time pitch deviation feedback</td></tr>
-</table>
+- ✦ &nbsp; **Real-time pitch detection &amp; scoring** with a custom frequency-to-note mapping algorithm
+- ✦ &nbsp; **CNN-based gender classification** for automated vocal normalization
+- ✦ &nbsp; **Dynamic Time Warping integration** for tempo-invariant live-vs-reference comparison
+- ✦ &nbsp; **GUI visual dashboard** with note-by-note comparison &amp; real-time pitch deviation feedback
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -223,26 +214,20 @@
 
 <br/>
 
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🇱🇰 | **National AI Expo &amp; Conference 2025** — Live product showcase, Sri Lanka Telecom |
-| 🤖 | **Agentic AI Hackathon** — IBM watsonx Orchestrate, global competition via lablab.ai |
-| ⚡ | **TECHNO 2025** — Real-time computer vision demo, SLT's annual tech showcase |
-
-</div>
+- 🇱🇰 &nbsp; **National AI Expo &amp; Conference 2025** — Live product showcase with Sri Lanka Telecom
+- 🤖 &nbsp; **Agentic AI Hackathon** — IBM watsonx Orchestrate, global competition via lablab.ai
+- ⚡ &nbsp; **TECHNO 2025** — Real-time computer vision demo, SLT's annual tech showcase
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
 
 <br/>
 
-<!-- SECTION 06: ACTIVITY & LANGUAGES (Clean GitHub Dark Theme, No Mismatched / Low Number Cards) -->
+<!-- SECTION 06: ACTIVITY & LANGUAGES -->
 <h3 align="center">◈ &nbsp; 06 · ACTIVITY &nbsp; ◈</h3>
 
 <br/>
@@ -257,7 +242,7 @@
 
 <br/>
 
-<!-- Dark & White Minimal Divider -->
+<!-- Minimal Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFFFFF,100:0D1117&height=2&width=100%25" width="100%"/>
 </div>
@@ -278,7 +263,7 @@ University of Kelaniya &nbsp;·&nbsp; 2021 – 2025
 
 <br/>
 
-<!-- Bottom Dark Wave Footer -->
+<!-- Bottom Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161B22,100:000000&height=180&section=footer" width="100%"/>
 
 <div align="center">
