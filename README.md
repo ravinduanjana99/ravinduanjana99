@@ -165,6 +165,11 @@ Full-Stack AI Engineer building responsive <b>React / React Native</b> client ap
 <td>PDF-grounded semantic search with multi-turn conversational memory &amp; custom dark UI</td>
 </tr>
 <tr>
+<td><a href="https://github.com/ravinduanjana99/LMS-React-Native-an-Express-Js-App"><b>🌟 Learnly Adventures</b><br/><sub>Gamified Mobile LMS</sub></a></td>
+<td><code>React Native</code> <code>TypeScript</code> <code>Express.js</code> <code>MySQL</code> <code>AsyncStorage</code></td>
+<td>Kid-friendly gamified learning platform with interactive math quizzes, dinosaur streak mascot, rewards engine &amp; decoupled service layer</td>
+</tr>
+<tr>
 <td><a href="https://github.com/ravinduanjana99/LankaLens"><b>🏛️ LankaLens</b><br/><sub>AI Landmark Explorer</sub></a></td>
 <td><code>React Native</code> <code>FastAPI</code> <code>Gemini 2.5</code> <code>gTTS</code></td>
 <td>Converts landmark photographs into 45-second narrated spatial audio documentaries</td>
@@ -201,6 +206,37 @@ Full-Stack AI Engineer building responsive <b>React / React Native</b> client ap
 </tr>
 </tbody>
 </table>
+
+<br/>
+
+<details>
+<summary><b>🔍 System Deep Dive: 🌟 Learnly Adventures (Architecture &amp; Features)</b></summary>
+<br/>
+
+> **Gamified Kid-Friendly LMS Mobile Application** built with **React Native CLI (TypeScript)**, featuring an Emerald / Forest Green design pivot aligned with Figma UX specifications, an offline-first storage engine, and a future-proof Express/MySQL backend.
+
+#### 🎨 Design & Palette Pivot
+- **Primary Emerald Green:** `#10B981` / Deep `#059669`
+- **Dark Forest Accents:** `#064E3B` / `#065F46`
+- **Light Green Surfaces:** `#ECFDF5` / `#D1FAE5`
+- **Gamification Tokens:** Sunny Star Yellow (`#FBBF24`), Warm Flame Orange (`#FB923C`), Elevated White Card Surfaces (`#FFFFFF`)
+
+#### 🏗️ Modular Architecture & Decoupled Service Layer
+```typescript
+// Unified service abstraction (ILMSService)
+// Switch from local AsyncStorage to remote MySQL API with 0 UI changes:
+export const lmsService: ILMSService = new LocalLMSService(); // or RemoteLMSServiceStub
+```
+
+#### 📱 Key Implemented Screen Modules
+- **Student Dashboard (`HomeScreen.tsx`):** Emma Johnson profile avatar with level indicator, 7-day flame streak card (`🔥 7 Days`), smiling math dinosaur mascot, and quick resume cards.
+- **Gamified Fruit Quiz (`QuizScreen.tsx`):** Visual addition (🍎 red apples + 🍌 yellow bananas), selectable keypad with active emerald highlights, instant score evaluation, and celebratory star persistence.
+- **Rewards & Badges (`RewardsScreen.tsx`):** ⭐ 230 Star balance pill, golden trophy hero card, Top Achiever progress tracker (80/100), unlockable badge grid (Starter, Reader, Explorer, Helper), and accessory inventory.
+- **Book Library (`LibraryScreen.tsx`):** Rounded search bar, interactive category filters (All, Fiction, Non-Fiction, Poetry), and illustrated story card modals.
+- **Activity Calendar (`CalendarScreen.tsx`):** Interactive monthly streak calendar with soft emerald date markers and daily completion timeline tracking.
+
+</details>
+
 </div>
 
 <!-- Cyber Divider -->
